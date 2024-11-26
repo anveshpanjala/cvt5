@@ -5,3 +5,5 @@ testing ssh authentication from git server
 ssh test2 with https url
 git push --mirror test
 new line from git bash terminal
+
+adding a new line to test new branch defects1
