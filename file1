@@ -1,2 +1,3 @@
 git push error 
 git rebase test1
+adding a line to test git merge with M1 branch when both branches are not up to date with each other
